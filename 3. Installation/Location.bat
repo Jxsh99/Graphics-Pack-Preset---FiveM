@@ -1,0 +1,1 @@
+explorer "%localappdata%\FiveM\FiveM.app\"

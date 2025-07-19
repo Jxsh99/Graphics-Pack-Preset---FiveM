@@ -1,0 +1,1 @@
+Run Location.bat will take you to where you need to unzip the mods and plugins folder.
